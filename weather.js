@@ -23,7 +23,7 @@ async function getWeatherData() {
     }
 }
 
- function renderForecast(dailyData) {
+async function renderForecast(dailyData) {
     const container = document.getElementById("forecast-container");
     container.innerHTML = ""; 
 
