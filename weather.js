@@ -1,5 +1,5 @@
-const latitude = 33.42883769999043;  // Replace with YOUR city's latitude
-const longitude = --86.7287087342889; // Replace with YOUR city's longitude
+const latitude = 33.42883;  // Replace with YOUR city's latitude
+const longitude = --86.72870; // Replace with YOUR city's longitude
 
 
 // The API URL asking for 7 days of daily high/low temperatures in Fahrenheit
